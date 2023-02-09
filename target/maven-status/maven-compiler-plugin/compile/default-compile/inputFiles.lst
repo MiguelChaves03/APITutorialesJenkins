@@ -1,0 +1,11 @@
+/home/usuario/Descargas/APITutorialesJenkins/src/main/java/com/ejercicio/tutorials/model/domain/Tutorials.java
+/home/usuario/Descargas/APITutorialesJenkins/src/main/java/com/ejercicio/tutorials/controller/TutorialsApi.java
+/home/usuario/Descargas/APITutorialesJenkins/src/main/java/com/ejercicio/tutorials/service/impl/TutorialsServiceImpl.java
+/home/usuario/Descargas/APITutorialesJenkins/src/main/java/com/ejercicio/tutorials/repository/TutorialsRepository.java
+/home/usuario/Descargas/APITutorialesJenkins/src/main/java/com/ejercicio/tutorials/util/TutorialsMapper.java
+/home/usuario/Descargas/APITutorialesJenkins/src/main/java/com/ejercicio/tutorials/controller/TutorialsController.java
+/home/usuario/Descargas/APITutorialesJenkins/src/main/java/com/ejercicio/tutorials/service/TutorialsService.java
+/home/usuario/Descargas/APITutorialesJenkins/src/main/java/com/ejercicio/tutorials/config/AppConfiguration.java
+/home/usuario/Descargas/APITutorialesJenkins/src/main/java/com/ejercicio/tutorials/controller/constants/EndPointUri.java
+/home/usuario/Descargas/APITutorialesJenkins/src/main/java/com/ejercicio/tutorials/model/TutorialsDTO.java
+/home/usuario/Descargas/APITutorialesJenkins/src/main/java/com/ejercicio/tutorials/TutorialsApplication.java

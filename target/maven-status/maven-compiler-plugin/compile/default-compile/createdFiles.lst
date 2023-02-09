@@ -1,0 +1,11 @@
+com/ejercicio/tutorials/model/TutorialsDTO.class
+com/ejercicio/tutorials/service/impl/TutorialsServiceImpl.class
+com/ejercicio/tutorials/TutorialsApplication.class
+com/ejercicio/tutorials/service/TutorialsService.class
+com/ejercicio/tutorials/controller/TutorialsController.class
+com/ejercicio/tutorials/config/AppConfiguration.class
+com/ejercicio/tutorials/controller/constants/EndPointUri.class
+com/ejercicio/tutorials/repository/TutorialsRepository.class
+com/ejercicio/tutorials/controller/TutorialsApi.class
+com/ejercicio/tutorials/util/TutorialsMapper.class
+com/ejercicio/tutorials/model/domain/Tutorials.class
